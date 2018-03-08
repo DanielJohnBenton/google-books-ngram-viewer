@@ -15,3 +15,5 @@
 ![weekdays](weekdays.png)
 
 * https://books.google.com/ngrams
+
+Does cherry-picking date and smoothing ranges inform or deceive?
