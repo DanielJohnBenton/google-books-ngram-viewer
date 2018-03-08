@@ -1,3 +1,3 @@
 What did lobsters suddenly do in 1911?
 
-![lobsters.png](lobsters)
+![lobsters](lobsters.png)
