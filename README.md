@@ -1,8 +1,8 @@
-#What did lobsters suddenly do in 1911?
+# What did lobsters suddenly do in 1911?
 
 ![lobsters](lobsters.png)
 
-#Weekdays
+# Weekdays
 
 ![weekdays](weekdays.png)
 
