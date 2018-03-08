@@ -2,7 +2,7 @@
 
 ![lobsters](lobsters.png)
 
-# civil war VS Civil War
+# civil war _vs_ Civil War
 
 ![civil war](civil_war.png)
 
