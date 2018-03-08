@@ -6,6 +6,9 @@
 
 ![weekdays](weekdays.png)
 
+# Electric or electronic?
+
+![electric,electronic](electric.png)
 
 
 * https://books.google.com/ngrams
