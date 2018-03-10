@@ -16,13 +16,13 @@
 	{
 		"scripts": ["background.js"]
 	},
-	"content_scripts":
+	/*"content_scripts":
 	[
 		{
 			"matches": ["*://books.google.com/ngrams/*"],
 			"js": ["content.js"]
 		}
-	],
+	],*/
 	"permissions":
 	[
 		"activeTab"
