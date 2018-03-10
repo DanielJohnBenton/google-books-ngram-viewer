@@ -1,18 +1,18 @@
 # What did lobsters suddenly do in 1911?
 
-![lobsters](lobsters.png)
+![lobsters](images/early/lobsters.png)
 
 # _civil war_ vs _Civil War_ _~1600-2000_
 
-![civil war](civil_war.png)
+![civil war](images/early/civil_war.png)
 
 # `Electric` or `electronic`?
 
-![electric,electronic](electric.png)
+![electric,electronic](images/early/electric.png)
 
 # Weekdays
 
-![weekdays](weekdays.png)
+![weekdays](images/early/weekdays.png)
 
 * https://books.google.com/ngrams
 
