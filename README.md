@@ -1,3 +1,5 @@
+Just some stuff I find in Google Ngram Viewer.
+
 ![democracy,monarchy](images/early/democracy,monarchy.gif)
 
 _comparing democracy,monarchy in general, British, & American corpora_
