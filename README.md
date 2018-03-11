@@ -1,3 +1,7 @@
+![democracy,monarchy](images/early/democracy,monarchy.gif)
+
+_comparing democracy,monarchy in general, British, & American corpora_
+
 # What did lobsters suddenly do in 1911?
 
 ![lobsters](images/early/lobsters.png)
